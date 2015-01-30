@@ -1,0 +1,36 @@
+// Source : 
+// Author : Jonathan E. Pautler
+// Date   : 2015-02-30
+
+/********************************************************************************** 
+* 
+* Implement word order permutation, which rearranges letters into all permutations of a string 
+* 
+* 
+* Here are some examples. Inputs are in the left-hand column and its corresponding outputs 
+* are in the right-hand column.
+*
+*   CAT → CAT,CTA,ACT,ATC,TAC,TCA
+*               
+**********************************************************************************/
+
+
+
+#include <stdio.h>
+#include <stdlib.h>
+
+#include <iostream>
+#include <vector>
+#include <algorithm>
+using namespace std;
+
+
+void wordPermutation(string input) {
+
+}
+
+
+int main (string input)
+{
+  
+}
